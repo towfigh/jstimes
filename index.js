@@ -1,6 +1,9 @@
-export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+function sleep(ms) {
+  new Promise((r) => setTimeout(r, ms));
+}
+module.exports = sleep;
 
-module.exports = Months = [
+export const Months = [
   { id: 0, label: "January", value: 0 },
   { id: 1, label: "February", value: 1 },
   { id: 2, label: "March", value: 2 },
