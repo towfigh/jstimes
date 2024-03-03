@@ -1,0 +1,22 @@
+{
+  "name": "timesjs",
+  "version": "0.0.1",
+  "description": "A lightweight and efficient npm package providing essential time functions for JavaScript, empowering developers with versatile tools for handling time-related operations with ease.",
+  "homepage": "https://github.com/towfigh/npm-package-publish-starter",
+  "repository": "https://github.com/towfigh/npm-package-publish-starter",
+  "license": "MIT",
+  "author": "Tofigh Nazari",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "functions",
+    "times",
+    "delay",
+    "leap",
+    "leap",
+    "utils"
+  ],
+  "main": "index.js"
+}
