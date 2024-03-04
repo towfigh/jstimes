@@ -2,8 +2,8 @@
   "name": "jstimes",
   "version": "1.0.0",
   "description": "A lightweight and efficient npm package providing essential time functions for JavaScript, empowering developers with versatile tools for handling time-related operations with ease.",
-  "homepage": "https://github.com/towfigh/timesjs.git",
-  "repository": "https://github.com/towfigh/timesjs.git",
+  "homepage": "https://github.com/towfigh/jstimes.git",
+  "repository": "https://github.com/towfigh/jstimes.git",
   "license": "MIT",
   "author": "Tofigh Nazari",
   "scripts": {
