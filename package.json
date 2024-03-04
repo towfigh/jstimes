@@ -1,6 +1,6 @@
 {
   "name": "jstimes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight and efficient npm package providing essential time functions for JavaScript, empowering developers with versatile tools for handling time-related operations with ease.",
   "homepage": "https://github.com/towfigh/jstimes.git",
   "repository": "https://github.com/towfigh/jstimes.git",
@@ -11,10 +11,12 @@
   },
   "keywords": [
     "time",
-    "functions",
     "times",
+    "jstimes",
+    "JavaScript",
+    "react",
+    "functions",
     "delay",
-    "leap",
     "leap",
     "utils"
   ],
