@@ -1,6 +1,6 @@
 {
   "name": "jstimes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight and efficient npm package providing essential time functions for JavaScript, empowering developers with versatile tools for handling time-related operations with ease.",
   "homepage": "https://github.com/towfigh/jstimes.git",
   "repository": "https://github.com/towfigh/jstimes.git",
