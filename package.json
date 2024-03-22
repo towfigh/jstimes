@@ -7,7 +7,10 @@
   "license": "MIT",
   "author": "Tofigh Nazari",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll --verbose"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
   },
   "keywords": [
     "time",
@@ -20,5 +23,13 @@
     "leap",
     "utils"
   ],
-  "main": "index.js"
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.24.3",
+    "@babel/preset-react": "^7.24.1",
+    "jest-environment-jsdom": "^29.7.0"
+  }
 }

@@ -50,7 +50,7 @@ console.log(isLeapYear("2024")); // true
 ```js
 import { getDaysBetweenTwoDate } from "jstimes";
 
-console.log(getDaysBetweenTwoDate("2024-01-02", "2024-01-08")); // 6
+console.log(getDaysBetweenTwoDate("2024-01-02", "2024-01-08")); // 7
 ```
 
 ## Variables
